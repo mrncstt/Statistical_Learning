@@ -1,13 +1,12 @@
 # Statistical Learning - Stanford University
 
-Course
-[Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
+Course:[Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
 
 Faculty: [Trevor Hastie](https://web.stanford.edu/~hastie/) & [Rob Tibshirani](https://statweb.stanford.edu/~tibs/)
 
 Textbook: [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
 
-About [R](https://www.r-project.org/about.html)
+About [R]: (https://www.r-project.org/about.html)
 
 
 ## Content
