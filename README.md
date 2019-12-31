@@ -12,11 +12,11 @@ About [R](https://www.r-project.org/about.html)
 
 ## Content
 
-✅ Chpt 1 - Introduction\
-✅ Chpt 2 - Overview of Statistical Learning\
-✅ Chpt 3 - Linear Regression\
-✅ Chpt 4 - Classification\
-🔘 Chpt 5 - Resampling Methods\
+✅ [Chpt 1 - Introduction](https://github.com/mrncstt/Statistical_Learning/tree/master/Chpt%201%20-%20Introduction)\
+✅ [Chpt 2 - Overview of Statistical Learning](https://github.com/mrncstt/Statistical_Learning/tree/master/Chpt%202%20-%20Overview%20of%20Statistical%20Learning)\
+✅ [Chpt 3 - Linear Regression](https://github.com/mrncstt/Statistical_Learning/tree/master/Chpt%203%20-%20Linear%20Regression)\
+✅ [Chpt 4 - Classification](https://github.com/mrncstt/Statistical_Learning/tree/master/Chpt%204%20-%20Classification)\
+🔘 [Chpt 5 - Resampling Methods](https://github.com/mrncstt/Statistical_Learning/tree/master/Chpt%205%20-%20Resampling%20Methods)\
 ▶️ Chpt 6 - Linear Model Selection and Regularization\
 ▶️ Chpt 7 - Moving Beyond Linearity\
 ▶️ Chpt 8 - Tree-Based Methods\
