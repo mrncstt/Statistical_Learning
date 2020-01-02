@@ -6,7 +6,7 @@ Faculty: [Trevor Hastie](https://web.stanford.edu/~hastie/) & [Rob Tibshirani](h
 
 Textbook: [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
 
-About [R]: (https://www.r-project.org/about.html)
+About [R](https://www.r-project.org/about.html)
 
 
 ## Content
@@ -20,7 +20,7 @@ About [R]: (https://www.r-project.org/about.html)
 ▶️ Chpt 7 - Moving Beyond Linearity\
 ▶️ Chpt 8 - Tree-Based Methods\
 ▶️ Chpt 9 - Support Vector Machine\
-▶️ Chpt 10 - Unsupervised Learning\
+▶️ Chpt 10 - Unsupervised Learning
 
 ✅  Finished
 🔘 In progress
