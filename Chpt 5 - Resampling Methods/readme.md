@@ -22,3 +22,20 @@ Q2 What are reasons why test error could be LESS than training error?
 ![](https://i.imgur.com/gAVZa4I.png)
 
 ### In each stage, one part gets to play the role validation set. The other four parts are the training set.
+
+
+Q1 Suppose we want to use cross-validation to estimate the error of the following procedure:
+
+Step 1: Find the k variables most correlated with y
+
+Step 2: Fit a linear regression using those variables as predictors
+
+We will estimate the error for each k from 1 to p, and then choose the best k.
+
+True or false: a correct cross-validation procedure will possibly choose a different set of k variables for every fold.
+
+- **TRUE**
+- FALSE
+
+
+## 5.3 Cross-Validation: the wrong and right way
