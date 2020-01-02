@@ -2,6 +2,10 @@
 ## 5.1. Cross-Validation and Bootstrap
 
 
+![](https://i.imgur.com/xNkDSgR.png)
+
+
+
 Q1 When we fit a model to data, which is typically larger?
 
 - **Test Error**
