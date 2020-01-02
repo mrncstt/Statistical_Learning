@@ -67,5 +67,8 @@ If we have n data points, what is the probability that a given data point does n
 
 
 **(1-1/n)^n**
+
+
  
- 
+ ## Code
+ [Link](https://rstudio.cloud/project/803844)
