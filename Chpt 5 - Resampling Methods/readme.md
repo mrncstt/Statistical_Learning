@@ -50,7 +50,7 @@ Using the full data set to choose the sequence of models is the WRONG way to do 
 - The selected model will probably be too simple
 
 
-## The bootstrap
+## 5.4 The bootstrap
 
 5.4.Q1
 
@@ -59,3 +59,13 @@ One way of carrying out the bootstrap is to average equally over all possible bo
 To carry out this implementation on a data set with n data points, how many bootstrap data sets would we need to average over?
 
 **n^n**
+
+## 5.5 Review Questions
+
+5.5.Q 1
+If we have n data points, what is the probability that a given data point does not appear in a bootstrap sample?
+
+
+**(1-1/n)^n**
+ 
+ 
